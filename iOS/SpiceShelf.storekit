@@ -1,0 +1,40 @@
+{
+  "identifier": "39D8B1D5",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {},
+  "subscriptionGroups": [
+    {
+      "id": "20E4A2B1",
+      "localizations": [],
+      "name": "Spice Shelf Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "8F1A2C3D",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Unlock Spice Shelf Pro features",
+              "displayName": "Spice Shelf Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.spiceshelf.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Spice Shelf Pro Monthly",
+          "subscriptionGroupID": "20E4A2B1",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
